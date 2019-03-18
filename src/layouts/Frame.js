@@ -108,7 +108,7 @@ Github
             <span>Released under the </span>
             <a href="http://opensource.org/licenses/MIT" target="_blank">MIT License</a>
           </p>
-          <p>Copyright (c) 2016-2018 Recharts Group</p>
+          <p>Copyright (c) 2016-{new Date().getFullYear()} Recharts Group</p>
         </footer>
       </div>
     );
